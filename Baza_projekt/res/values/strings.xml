@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Baza_projekt</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Ime:</string>
+	<string name="lastname">Prezime:</string>
+	<string name="brindex">Broj index:</string>
+	<string name="year">Godina:</string>
+	<string name="save">Save</string>
+	<string name="view">View</string>
+	
+	
+</resources>
